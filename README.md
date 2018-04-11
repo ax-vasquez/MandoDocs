@@ -3,6 +3,9 @@ A public repository for the notes I obsessively-create. I will update this Readm
 
 ## AWS
 Everything AWS from high-level concepts to SDK usage.
+- [Amazon VPC Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/vpc)
+  - [VPC Overview](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/VPC_Overview.md)
+  - [Getting Started with VPC](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/Getting_Started_With_VPC.md)
 
 ## Spring Framework
 I am documenting these concepts since the vast majority of the proprietary projects I work on utilize this framework. I feel it is absolutely essential that I understand the fundamentals of this framework in order to work with it effectively.
