@@ -1,6 +1,9 @@
 # MandoDocs
 A public repository for the notes I obsessively-create. I will update this Readme as I add more concepts I take notes on. 
 
+## AWS
+Everything AWS from high-level concepts to SDK usage.
+
 ## Spring Framework
 I am documenting these concepts since the vast majority of the proprietary projects I work on utilize this framework. I feel it is absolutely essential that I understand the fundamentals of this framework in order to work with it effectively.
 
