@@ -53,6 +53,7 @@ In simplest terms, reactive programming is a paradigm where the _consumer_ **rea
 ## Core Concepts (The "3 O's")
 In the reactive world, _consider everything as a stream_. This is not new - it's just the [observer design pattern](https://en.wikipedia.org/wiki/Observer_pattern) in action, but much more powerful. The following are the core concepts of Reactive Extensions:
 1. **Observables**
+    - Source of some data stream (arbitrary data type)
 2. **Observers**
     - Anything that is interested in an observable and subscribes to it can be called an _observer_
     - When the source observable emits some item, _all subscribed observers are notified about it_
