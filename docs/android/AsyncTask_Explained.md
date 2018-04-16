@@ -43,7 +43,7 @@ In addition to being defined by the three types stated above, an asynchronous ta
 ## Cancelling a Task
 - A task can be cancelled at any time by invoking `cancel( boolean )`
   - Invoking this method will cause subsequent calls to `isCancelled()` to return true
-- After invoking this method, `onCancelled( Object )`, instead of `onPostExecute( Object )` will be invoked ater `doInBackground( Object[] )` returns
+- After invoking this method, `onCancelled( Object )`, instead of `onPostExecute( Object )` will be invoked later `doInBackground( Object[] )` returns
 - To ensure that a task is cancelled as quickly as possible:
   - Always check the return value of `isCancelled()` periodically from `doInBackground( Object[] )`, if possible
     - For instance, inside a loop
