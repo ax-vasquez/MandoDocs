@@ -17,7 +17,7 @@ The manifest entry for each type of component element ( `<activity>`, `<service>
 You can learn more in [Processes and Application Lifecycle](https://developer.android.com/guide/topics/processes/process-lifecycle.html)
 
 ## Threads
-When an application is launched, the syste, creates a thread of execution for the application, called "main"
+When an application is launched, the system, creates a thread of execution for the application, called "main"
 - The "main" thread is a very important thread
   - It is in charge of dispatching events to the appropriate user interface widgets, including drawing events
   - _It is almost-always the thread in which your application interacts with components from the Android UI toolkit_
