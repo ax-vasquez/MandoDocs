@@ -1,4 +1,4 @@
-# Android AsyncTask
+# [Android AsyncTask](https://developer.android.com/reference/android/os/AsyncTask.html)
 AsyncTask enables proper and easy use of the UI thread. It allows you to perform background operations and publish results on the UI thread without having to manipulate threads and/or handlers.
 - AsyncTask is designed to be a helper class around `Thread` and `Handler`
   - It _does not_ constitute a generic threading framework
