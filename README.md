@@ -1,6 +1,13 @@
 # MandoDocs
 A public repository for the notes I obsessively-create. I will update this Readme as I add more concepts I take notes on. 
 
+## Android
+From baby steps to RxJava2 - all things related to Android.
+- [Android Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android)
+  - [Android Activities Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Activities_Explained.md)
+- [Reactive Extensions Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/reactive_extensions/rxjava2/android)
+  - [RxJava2 for Android](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/reactive_extensions/rxjava2/android/RxJava2_for_Android.md)
+
 ## AWS
 Everything AWS from high-level concepts to SDK usage.
 - [Amazon VPC Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/vpc)
