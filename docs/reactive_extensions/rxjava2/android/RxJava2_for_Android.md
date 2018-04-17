@@ -174,3 +174,8 @@ RxJava2 features two powerful methods to easily-control multi-threading:
     - This operator can only be used once on a source observable
       - **If you do use it multiple times, _this will not cause an error_**
       - Instead, only the one defined closest to source will take effect
+
+# Why You Should Use RxJava 2
+This is a list of articles all suggesting RxJava2 be utilized in Android development:
+1. [Why Should We Use RxJava on Android](https://medium.com/@lpereira/why-should-we-use-rxjava-on-android-c9066087c56c)
+2. [Why You Should Use RxJava in Android - a Short Introduction to RxJava](http://blog.feedpresso.com/2016/01/25/why-you-should-use-rxjava-in-android-a-short-introduction-to-rxjava.html)
