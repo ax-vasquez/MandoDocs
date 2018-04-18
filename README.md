@@ -4,9 +4,11 @@ A public repository for the notes I obsessively-create. I will update this Readm
 ## Android
 From baby steps to RxJava2 - all things related to Android.
 - [Android Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android)
-  - [Android Activities Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Activities_Explained.md)
+  - [Activities Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Activities_Explained.md)
   - [AsyncTask Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/AsyncTask_Explained.md)
+  - [Handler Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Handler_Explained.md)
   - [Looper Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Looper_Explained.md)
+  - [Message Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Message_Explained.md)
   - [Processes and Threads](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Processes_and_Threads.md)
 - [Core App Quality Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android/core_app_quality)
   - [Test Procedures List](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/core_app_quality/Test_Procedures.md)
