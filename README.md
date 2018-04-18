@@ -6,6 +6,7 @@ From baby steps to RxJava2 - all things related to Android.
 - [Android Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android)
   - [Android Activities Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Activities_Explained.md)
   - [AsyncTask Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/AsyncTask_Explained.md)
+  - [Looper Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Looper_Explained.md)
   - [Processes and Threads](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Processes_and_Threads.md)
 - [Reactive Extensions Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/reactive_extensions/rxjava2/android)
   - [RxJava2 for Android](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/reactive_extensions/rxjava2/android/RxJava2_for_Android.md)
