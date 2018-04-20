@@ -5,6 +5,7 @@ A public repository for the notes I obsessively-create. I will update this Readm
 From baby steps to RxJava2 - all things related to Android.
 - [Android Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android)
   - [Activities Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Activities_Explained.md)
+  - [App Fundamentals](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/App_Fundamentals.md)
   - [AsyncTask Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/AsyncTask_Explained.md)
   - [Handler Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Handler_Explained.md)
   - [Looper Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Looper_Explained.md)
