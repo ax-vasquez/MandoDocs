@@ -1,6 +1,6 @@
 The issues in this document apply only to Android 8.0 devices.
 
-### Problem: _Device Not Detected by ADB after Updating to Android 8.0 on Windows 10_
+### Problem: _Device Not Detected by ADB on Windows 10 after Updating to Android 8.0_
 - **Symptoms**
   - Device connects to PC, but does not show up in device list of the `adb devices` command
   - Occasional notifications on the device stating that it's unable to connect
