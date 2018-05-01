@@ -20,6 +20,7 @@ From baby steps to RxJava2 - all things related to Android.
 Everything AWS from high-level concepts to SDK usage.
 - [EC2 Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/ec2)
   - [EC2 Instance Types and Pricing](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/ec2/EC2_Instance_Types_and_Pricing.md)
+  - [EC2 and ECS](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/ec2/EC2_and_ECS.md)
 - [VPC Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/vpc)
   - [VPC Overview](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/VPC_Overview.md)
   - [Getting Started with VPC](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/Getting_Started_With_VPC.md)
