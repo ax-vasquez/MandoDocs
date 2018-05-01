@@ -15,7 +15,7 @@ From baby steps to RxJava2 - all things related to Android.
   - [Test Procedures List](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/core_app_quality/Test_Procedures.md)
 - [Reactive Extensions Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/reactive_extensions/rxjava2/android)
   - [RxJava2 for Android](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/reactive_extensions/rxjava2/android/RxJava2_for_Android.md)
-- [General Troubleshooting Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android/troubleshooting)
+- [Troubleshooting Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android/troubleshooting)
   - [Android 8.0 Troubleshooting](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/troubleshooting/Android_8.0_Troubleshooting.md)
 
 ## AWS
