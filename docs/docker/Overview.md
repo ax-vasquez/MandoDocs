@@ -33,3 +33,16 @@
     - Docker containers are lightweight by design
       - This makes them _ideal for microservices application development_
     - Accelerate development, deployment and rollback of tens or hundred of containers composed as a single application
+    
+## Products
+There are two types of Docker available:
+1. Enterprise Edition (EE)
+    - Freedom of Choice
+    - Agile Operations
+    - Integrated Security
+    - Professional Services
+    - Support and Certification
+2. Community Edition (CE)
+    - Universal Packaging
+    - Complete Developer Toolkit
+    - Extensible Architecture
