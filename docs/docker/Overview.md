@@ -2,6 +2,8 @@
 - Docker is the only platform provider to address every application across the hybrid cloud
 - Docker enables _true independence_ between applications and infrastructure and developers and IT ops
 
+[**Official Documentation**](https://docs.docker.com/)
+
 ## What is a Container Platform?
 - A _Container platform_ is a complete solution that allows organizations to solve multiple problems across a diverse set of requirements
 - It is more than a piece of technology and orchestration
