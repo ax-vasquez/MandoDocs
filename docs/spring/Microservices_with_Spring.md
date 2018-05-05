@@ -90,7 +90,7 @@ Spring Cloud is built on Spring Boot and utilizes parent and starter POMs. The i
     - This is very useful if you have multiple Spring Boot applications in the same object (as demonstrated in this project later)
 
 #### Discovery Server Configuration
-This application looks for `registration-server.properties` or `registrations-server.yml`. _Here is the relevant configuration from `registration-server.yml`
+This application looks for `registration-server.properties` or `registrations-server.yml`. _Here is the relevant configuration from `registration-server.yml`_
 ```yml
 # Configure this Discovery Server
 eureka:
