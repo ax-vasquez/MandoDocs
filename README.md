@@ -5,6 +5,7 @@ A public repository for the notes I obsessively-create. I will update this Readm
 From baby steps to RxJava2 - all things related to Android.
 - [Android Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android)
   - [Activities Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Activities_Explained.md)
+  - [App Fundamentals](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/App_Fundamentals.md)
   - [AsyncTask Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/AsyncTask_Explained.md)
   - [Handler Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Handler_Explained.md)
   - [Looper Explained](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/Looper_Explained.md)
@@ -14,10 +15,15 @@ From baby steps to RxJava2 - all things related to Android.
   - [Test Procedures List](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/core_app_quality/Test_Procedures.md)
 - [Reactive Extensions Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/reactive_extensions/rxjava2/android)
   - [RxJava2 for Android](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/reactive_extensions/rxjava2/android/RxJava2_for_Android.md)
+- [Troubleshooting Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android/troubleshooting)
+  - [Android 8.0 Troubleshooting](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/troubleshooting/Android_8.0_Troubleshooting.md)
 
 ## AWS
 Everything AWS from high-level concepts to SDK usage.
-- [Amazon VPC Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/vpc)
+- [EC2 Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/ec2)
+  - [EC2 Instance Types and Pricing](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/ec2/EC2_Instance_Types_and_Pricing.md)
+  - [EC2 and ECS](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/ec2/EC2_and_ECS.md)
+- [VPC Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/vpc)
   - [VPC Overview](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/VPC_Overview.md)
   - [Getting Started with VPC](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/Getting_Started_With_VPC.md)
 
