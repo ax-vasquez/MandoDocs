@@ -37,6 +37,8 @@ One of the proprietary projects I am working on heavily-utilizes payment process
 Docker is a containerization service that I use in developing microservices. Lately, my aim has been to employ the use of Docker via the AWS Fargate service, though this section only contains information pertinent to the base Docker service.
 - [Docker Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/docker)
   - [Overview](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/docker/Overview.md)
+- [Docker for Mac Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/docker/mac)
+  - [Getting Started on Mac](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/docker/mac/Getting_Started_on_Mac.md)
 
 ## Mastodon4j
 In one of my side projects, we needed an open source social media integration to allow user communication and networking. So, I opted for Mastodon. Mastodon is a well-known "twitter alternative" open-source social networking platform. The Java implementation, Mastodon4j, does not have much documentation and instead relies on the basic documentation for the base Mastodon API (which is not in Java). So, this section contains a more-convenient documentation source for Mastodon4j.
