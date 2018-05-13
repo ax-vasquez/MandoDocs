@@ -18,9 +18,6 @@ From baby steps to RxJava2 - all things related to Android.
 - [Troubleshooting Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/android/troubleshooting)
   - [Android 8.0 Troubleshooting](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/android/troubleshooting/Android_8.0_Troubleshooting.md)
 
-## Apache Tomcat 9.0 Servlet Dispatcher
-Tomcat functions as the Servlet Dispatcher in a number of my side projects. This section contains documents covering issues I encountered and overcame, as well as important implementation concepts.
-
 ## AWS
 Everything AWS from high-level concepts to SDK usage.
 - [EC2 Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/ec2)
@@ -29,17 +26,13 @@ Everything AWS from high-level concepts to SDK usage.
 - [VPC Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/aws/vpc)
   - [VPC Overview](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/VPC_Overview.md)
   - [Getting Started with VPC](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/aws/vpc/Getting_Started_With_VPC.md)
-  
-## Braintree Server SDK (Java)
-One of the proprietary projects I am working on heavily-utilizes payment processing. As a result, I decided to integrate the Braintree Server SDK to facilitate the iOS and Android clients in our app. This is still a work in progress, but I will add concepts to this section as I work through the integration process.
 
 ## Docker
 Docker is a containerization service that I use in developing microservices. Lately, my aim has been to employ the use of Docker via the AWS Fargate service, though this section only contains information pertinent to the base Docker service.
 - [Docker Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/docker)
   - [Overview](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/docker/Overview.md)
-
-## Mastodon4j
-In one of my side projects, we needed an open source social media integration to allow user communication and networking. So, I opted for Mastodon. Mastodon is a well-known "twitter alternative" open-source social networking platform. The Java implementation, Mastodon4j, does not have much documentation and instead relies on the basic documentation for the base Mastodon API (which is not in Java). So, this section contains a more-convenient documentation source for Mastodon4j.
+- [Docker for Mac Documentation Directory](https://github.com/ax-vasquez/MandoDocs/tree/master/docs/docker/mac)
+  - [Getting Started on Mac](https://github.com/ax-vasquez/MandoDocs/blob/master/docs/docker/mac/Getting_Started_on_Mac.md)
 
 ## Spring Framework
 I am documenting these concepts since the vast majority of the proprietary projects I work on utilize this framework. I feel it is absolutely essential that I understand the fundamentals of this framework in order to work with it effectively.
